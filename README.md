@@ -29,11 +29,11 @@ Select "Remote-WSL: New Window" from the options. This will open a new VSCode wi
 ## Creating Virtual Environment
 Run ```sudo apt update``` command in WSL terminal to update the Ubuntu version  
 
-Navigate to the project folder by running the command ```cd /mnt/<path-to-your-prroject>```  
+Navigate to the project folder by running the command ```cd /mnt/<path-to-your-project>```  
 
-Create the virtual environment by running the command ```python3 -m venv airflowvenv```  
+Create the virtual environment by running the command ```python3 -m venv airflowvenv2```  
 
-(replace airflowvenv with your desired name for the environment)  
+(replace airflowvenv2 with your desired name for the environment)  
 
 Activate the virtual environment by running the command ```source airflowvenv/bin/activate```
 
