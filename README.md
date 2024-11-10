@@ -54,12 +54,12 @@ This will create the necessary tables and other database configurations in the d
 ### Create a User for the Web UI
 Airflow comes with a web-based user interface (UI) for managing workflows. You need to create an admin user to access this UI.  
 
-``` airflow users create \
-             --username admin \
-             --password admin \
-             --firstname First \
-             --lastname Last \
-             --role Admin \
+``` airflow users create \\
+             --username admin \\
+             --password admin \\
+             --firstname First \\
+             --lastname Last \\
+             --role Admin \\
              --email admin@example.com ```  
 
 ### Start Airflow Web Server
