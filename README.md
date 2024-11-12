@@ -74,5 +74,5 @@ In a separate terminal window, start the scheduler by running below command
 
 ``` airflow scheduler ```  
 
-Access the Airflow Web UI: Open a browser and go to http://localhost:8080/ to access the Airflow UI. Log in with the username and password you created
+Access the Airflow Web UI: Open a browser and go to http://localhost:8000/ to access the Airflow UI. Log in with the username and password you created
 
