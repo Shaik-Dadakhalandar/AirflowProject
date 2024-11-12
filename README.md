@@ -67,7 +67,7 @@ airflow users create \
 ### Start Airflow Web Server
 Launch the Airflow web server to access the UI by running below command  
 
-``` airflow webserver --port 8080```  
+``` airflow webserver --port 8000```  
 
 ### Start Airflow Scheduler
 In a separate terminal window, start the scheduler by running below command  
